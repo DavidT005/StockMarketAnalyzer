@@ -3,3 +3,4 @@ A code to download stock data from internet for the Stock Market Analyzer projec
 
 I will write below the references I have used for this project, if there's something missing please let me know:
 REFERENCES:
+Ahmad Bazzi: https://www.youtube.com/watch?v=57qAxRV577c
